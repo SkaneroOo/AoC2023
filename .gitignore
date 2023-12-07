@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+bin/
+out/
+target/
+obj/
+*.exe
+*.out
